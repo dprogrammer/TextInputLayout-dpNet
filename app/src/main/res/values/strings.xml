@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextInputLayout</string>
+    <string name="erro_msg_email">endereço de e-mail inválido</string>
+    <string name="erro_msg_password">password inválido</string>
+</resources>
